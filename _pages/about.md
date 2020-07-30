@@ -6,9 +6,15 @@ description:
 featured_image: /images/demo/gg.jpg
 ---
 
-![](/images/demo/gg.jpg)
+<!-- ![](/images/demo/gg.jpg) -->
 
-## Features
+## About me
+
+I recently graduated from Amity university Kolkata, I am interested in graphic design and it's application. 
+follow me or download my CV here:
+
+* Linkedin:
+* CV: 
 
 <!-- We've packed Duet full of powerful features to help showcase your work:
 
