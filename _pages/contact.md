@@ -1,8 +1,8 @@
 ---
 title: Contact
-subtitle: Write to me.
+subtitle:
 description: 
 featured_image:
 ---
 
-## write to me @rkradhikaa0@gmail.com
+## write to me rkradhikaa0@gmail.com
