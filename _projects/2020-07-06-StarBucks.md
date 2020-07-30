@@ -11,6 +11,8 @@ featured_image: '/images/6Jul/1.jpg'
 ![](/images/6Jul/1.jpg)
 
 
+Did something cool with the starbuck cup.
+Steps I have taken: 
 <!-- Nature has most beaustiful creature. just listeaning to these beautiful birds given you emmense pleasure and calm. I tried to combine mandala with these beauty -->
 
 <!-- ### Image carousels -->
@@ -23,6 +25,6 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/6ul/1.jpg">
 </div> -->
 
-# Video 
+# Find out the Video 
 
-<iframe src="https://www.facebook.com/dreamagination0/videos/597775027786227" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=CNWcKwoRYEE" width="640" height="360" frameborder="0" allowfullscreen></iframe>
