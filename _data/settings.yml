@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Dreamagination
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: Art and blog by Radhika
 
 grid_settings:
   overlay_opacity: 0.8
@@ -33,9 +33,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'http://instagram.com'
+  facebook_url: 'https://www.facebook.com/dreamagination0/'
+  twitter_url: 'https://twitter.com/Radhikaa007'
+  instagram_url: 'http://instagram.com/dreamagination0'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
